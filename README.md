@@ -4,3 +4,4 @@ How reproduce the error:
 `pnpm test:component`
 
 Select Firefox or Chrome for reproduce the error.
+Select the Counter.vue
